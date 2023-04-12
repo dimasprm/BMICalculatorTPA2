@@ -1,0 +1,55 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 auto ;
+    padding: 0;
+    width: 500px;
+    color: #2D3844;
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    margin: 70px;
+    padding: 50px;
+    justify-content: center;
+}
+
+#Judul {
+    text-align: center;
+}
+
+#Judul h1 {
+    margin-bottom: 24px;
+    font-size: 32px;
+    color: #2d3d44;
+    font-weight: 600;
+}
+
+#Judul p {
+    margin-bottom: 50px;
+    font-size: 16px;
+}
+
+input[type=number] {
+    margin-bottom: 40px;
+    width: 460px;
+    height: 30px;
+    font-size: 12px;
+    margin-top: 12px;
+    padding-left: 10px;
+}
+
+label {
+    font-size: 14px;
+}
+
+#btn-cal {
+    width: 120px;
+    height: 35px;
+    color: #ffffff;
+    border: none;
+    font-size: 14px;
+    border-radius: 4px;
+    background-color: #ec5858;
+    margin-bottom: 40px;
+}
